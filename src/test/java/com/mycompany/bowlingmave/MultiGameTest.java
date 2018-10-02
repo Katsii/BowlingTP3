@@ -21,7 +21,7 @@ import static org.junit.Assert.*;
 public class MultiGameTest {
     
     private MultiGame game;
-    private String[] playersName = {"Killian", "Marjorie", "Clément", "Maxime"};
+    private String[] playersName = {"Killian", "Marjorie", "Clément", "Brian"};
 
     @Before
     public void setUp() {
